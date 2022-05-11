@@ -8,6 +8,12 @@ Para instalar os modulos necessários:
 $ npm install
 ```
 
+Para iniciar servidor:
+
+```
+$ npm start
+```
+
 Para rodar os testes:
 
 ```
